@@ -1,7 +1,7 @@
 # nrf51822-ble-tag
 This repository contains firmware dump, app and description pdf for chineese BLE tag.
 
-[![BLE Tag](https://github.com/monster1025/nrf51822-ble-tag/blob/master/NRF51822-2-3-3-Bluetooth-4-0.jpg)](https://aliexpress.ru/item/32826502025.html)
+[![BLE Tag](https://github.com/monster1025/nrf51822-ble-tag/blob/master/img/NRF51822-2-3-3-Bluetooth-4-0.jpg)](https://aliexpress.ru/item/32826502025.html)
 
 
 ### Problem: When you choose invalid settings from BLE_Sample app, you can 'brick' your BLE beacon.
